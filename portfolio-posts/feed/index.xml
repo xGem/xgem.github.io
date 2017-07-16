@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolios &#8211; xGem</title>
+	<atom:link href="/portfolio-posts/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Community</description>
+	<lastBuildDate>Sun, 16 Jul 2017 03:43:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/cropped-logo-cuadrado-32x32.jpg</url>
+	<title>Portfolios &#8211; xGem</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Emerald</title>
+		<link>/portfolio-posts/espanol-emerald/</link>
+		<comments>/portfolio-posts/espanol-emerald/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 03:23:51 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=580</guid>
+		<description><![CDATA[<p>a.k.a. Emma Music. Musical assistant for the study and practice. &#160;</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/espanol-emerald/">Emerald</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>a.k.a. Emma Music.</p>
+<p>Musical assistant for the study and practice.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/espanol-emerald/">Emerald</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/espanol-emerald/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quartz</title>
+		<link>/portfolio-posts/quartz/</link>
+		<comments>/portfolio-posts/quartz/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 02:42:56 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=575</guid>
+		<description><![CDATA[<p>Computer Vision relative projects.</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/quartz/">Quartz</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Computer Vision relative projects.</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/quartz/">Quartz</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/quartz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jasper</title>
+		<link>/portfolio-posts/jasper/</link>
+		<comments>/portfolio-posts/jasper/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 02:40:03 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=572</guid>
+		<description><![CDATA[<p>Blockchain and cryptocurrencies. &#160;</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/jasper/">Jasper</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Blockchain and cryptocurrencies.</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/jasper/">Jasper</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/jasper/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stishovite</title>
+		<link>/portfolio-posts/stishovite/</link>
+		<comments>/portfolio-posts/stishovite/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:47:25 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=311</guid>
+		<description><![CDATA[<p>Log management gathering and analyzer. SOON!!</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/stishovite/">Stishovite</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Log management gathering and analyzer.</p>
+<p>SOON!!</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/stishovite/">Stishovite</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/stishovite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rhodolite</title>
+		<link>/portfolio-posts/granate-rhodolite/</link>
+		<comments>/portfolio-posts/granate-rhodolite/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:45:04 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=309</guid>
+		<description><![CDATA[<p>Live sport score and data</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/granate-rhodolite/">Rhodolite</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Live sport score and data</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/granate-rhodolite/">Rhodolite</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/granate-rhodolite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Regolith</title>
+		<link>/portfolio-posts/regolith/</link>
+		<comments>/portfolio-posts/regolith/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:42:41 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=307</guid>
+		<description><![CDATA[<p>&#160; IOT device for processing monitoring and alarm. SOON!!! https://github.com/xGem/Regolith</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/regolith/">Regolith</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>IOT device for processing monitoring and alarm.</p>
+<p>SOON!!!</p>
+<p><a href="https://github.com/xGem/Regolith">https://github.com/xGem/Regolith</a></p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/regolith/">Regolith</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/regolith/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pyrite</title>
+		<link>/portfolio-posts/peryte/</link>
+		<comments>/portfolio-posts/peryte/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:27:25 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=305</guid>
+		<description><![CDATA[<p>Pre sale system mobile offline and sync. AKA Preventa. It Includes and mobile App and a backend. The complete solution point to sales people getting orders offline using your phone and then send updates to backend. Authentication and master data (clients, orders) are in backend side. On development. Not public yet. Access only to xGem members. Resources: Slack Team [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/peryte/">Pyrite</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Pre sale system mobile offline and sync.</p>
+<p>AKA Preventa. It Includes and mobile App and a backend.</p>
+<p>The complete solution point to sales people getting orders offline using your phone and then send updates to backend.</p>
+<p>Authentication and master data (clients, orders) are in backend side.</p>
+<p>On development. Not public yet. Access only to xGem members.</p>
+<p>Resources:</p>
+<ul>
+<li>Slack Team (<a href="https://xgemit.slack.com/">https://xgemit.slack.com/</a>)</li>
+<li>Bitbucket repositories
+<ul>
+<li><a href="https://bitbucket.org/xGem/preventa-mobile">https://bitbucket.org/xGem/preventa-mobile</a></li>
+<li><a href="https://bitbucket.org/xGem/preventa-backend">https://bitbucket.org/xGem/preventa-backend</a></li>
+</ul>
+</li>
+<li>Heroku App multiple environment
+<ul>
+<li><a href="http://preventa-backend.herokuapp.com/">http://preventa-backend.herokuapp.com/</a></li>
+<li><a href="https://dashboard.heroku.com/pipelines/8011194f-3ecd-4d03-8479-c2548a1e3195">https://dashboard.heroku.com/pipelines/8011194f-3ecd-4d03-8479-c2548a1e3195</a></li>
+</ul>
+</li>
+<li>Wiki xGem (<a href="http://wiki.xgem.com.ar/">http://wiki.xgem.com.ar/</a>)</li>
+</ul>
+<p>The post <a rel="nofollow" href="/portfolio-posts/peryte/">Pyrite</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/peryte/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Herkimer</title>
+		<link>/portfolio-posts/herkimer/</link>
+		<comments>/portfolio-posts/herkimer/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">http://wp.xgem.com.ar/?post_type=portfolio&#038;p=149</guid>
+		<description><![CDATA[<p>&#160; Cloud Service for data and syncronization. The user design data at a web application where defines the data organization and syncronization rules. STATUS: Under development. xGem Member Access only. Mobile Client iOS/Android Geolocalization: Whay? When? routes management. Picture: Capture &#38; Sync Scan QR/Barcode Document transformation (excel, pdf) Communication Push Notifications (single/broadcast) Integration Hub MQTT NIFI IoT Security SSL,oAuth2 [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/portfolio-posts/herkimer/">Herkimer</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Cloud Service for data and syncronization.</p>
+<p>The user design data at a web application where defines the data organization and syncronization rules.</p>
+<p><strong>STATUS: Under development. xGem Member Access only.</strong></p>
+<h3>Mobile</h3>
+<ul>
+<li>Client iOS/Android</li>
+<li>Geolocalization: Whay? When? routes management.</li>
+<li>Picture: Capture &amp; Sync</li>
+<li>Scan QR/Barcode</li>
+<li>Document transformation (excel, pdf)</li>
+</ul>
+<h3>Communication</h3>
+<ul>
+<li>Push Notifications (single/broadcast)</li>
+<li>Integration Hub</li>
+<li>MQTT</li>
+<li>NIFI</li>
+<li>IoT</li>
+</ul>
+<h3>Security</h3>
+<ul>
+<li>SSL,oAuth2</li>
+<li>Social Login</li>
+<li>Share on Social networks  or email</li>
+<li>Fingerprint</li>
+</ul>
+<h3>Data:</h3>
+<ul>
+<li>Data model by configuration</li>
+<li>Document DB</li>
+<li>Sensitive data collections<span id="t-served-community-button" class="trans-verified-button goog-toolbar-button"></span></li>
+<li>Client consume configuration from Backend</li>
+<li>Auto Sync per colección</li>
+<li>Backend “multiple” project</li>
+<li>Reporting</li>
+<li>RESP API / export data</li>
+<li>Reduced data collection for mobile performance.</li>
+</ul>
+<hr />
+<h4>Resources:</h4>
+<ul>
+<li>Slack Team: <a href="https://xgemit.slack.com/messages/C2RCETC6L">https://xgemit.slack.com/messages/C2RCETC6L</a></li>
+<li>Google Drive</li>
+<li>BitBucket
+<ul>
+<li><a href="https://bitbucket.org/xGem/herkimer-dev">https://bitbucket.org/xGem/herkimer-dev</a></li>
+<li><a href="https://bitbucket.org/xGem/herkimer-mobile">https://bitbucket.org/xGem/herkimer-mobile</a></li>
+<li><a href="https://bitbucket.org/xGem/herkimer-backend">https://bitbucket.org/xGem/herkimer-backend</a></li>
+</ul>
+</li>
+<li>xGem Wiki: <a href="http://wiki.xgem.com.ar/">http://wiki.xgem.com.ar/</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="/portfolio-posts/herkimer/">Herkimer</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/portfolio-posts/herkimer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

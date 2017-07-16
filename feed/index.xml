@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>xGem</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Community</description>
+	<lastBuildDate>Sun, 16 Jul 2017 03:43:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/cropped-logo-cuadrado-32x32.jpg</url>
+	<title>xGem</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>#TechTalks &#124; Julio Castro &#124; Pulse &#124; LinkedIn</title>
+		<link>/2017/07/09/techtalks-julio-castro-pulse-linkedin/</link>
+		<comments>/2017/07/09/techtalks-julio-castro-pulse-linkedin/#respond</comments>
+		<pubDate>Sun, 09 Jul 2017 21:20:28 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=566</guid>
+		<description><![CDATA[<p>Hoy arranco a escribir esta bitácora contando sobre los temas en los que estoy trabajando. No solo sumaré cuestiones de mi actual empleador, sino también investigaciones personales y hobbies. Source: #TechTalks &#124; Julio Castro &#124; Pulse &#124; LinkedIn</p>
+<p>The post <a rel="nofollow" href="/2017/07/09/techtalks-julio-castro-pulse-linkedin/">#TechTalks | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hoy arranco a escribir esta bitácora contando sobre los temas en los que estoy trabajando. No solo sumaré cuestiones de mi actual empleador, sino también investigaciones personales y hobbies.</p>
+<p>Source: <em><a href="https://www.linkedin.com/pulse/techtalks-julio-castro">#TechTalks | Julio Castro | Pulse | LinkedIn</a></em></p>
+<p>The post <a rel="nofollow" href="/2017/07/09/techtalks-julio-castro-pulse-linkedin/">#TechTalks | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/07/09/techtalks-julio-castro-pulse-linkedin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Automatización de la configuración. &#124; Julio Castro &#124; Pulse &#124; LinkedIn</title>
+		<link>/2017/07/09/automatizacion-de-la-configuracion-julio-castro-pulse-linkedin/</link>
+		<comments>/2017/07/09/automatizacion-de-la-configuracion-julio-castro-pulse-linkedin/#respond</comments>
+		<pubDate>Sun, 09 Jul 2017 21:19:41 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=564</guid>
+		<description><![CDATA[<p>En este post les quiero comentar algo que vengo investigando hace un tiempo. Se trata de frameworks para la automatización de configuración de infraestructura. La semana pasada me tocó presentar en un evento. Armé junto a un compañero de trabajo unas líneas para explicar el porqué de la necesidad de implementar algún producto referido a este [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2017/07/09/automatizacion-de-la-configuracion-julio-castro-pulse-linkedin/">Automatización de la configuración. | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>En este post les quiero comentar algo que vengo investigando hace un tiempo. Se trata de frameworks para la automatización de configuración de infraestructura.</p>
+<p>La semana pasada me tocó presentar en un evento. Armé junto a un compañero de trabajo unas líneas para explicar el porqué de la necesidad de implementar algún producto referido a este tema. Una de las principales razones la creciente escala y complejidad de la infraestructura. Además de lograr mejorar la documentación de los cambios y el automatismo de las tareas repetitivas.</p>
+<p>&nbsp;</p>
+<p>Source: <em><a href="https://www.linkedin.com/pulse/automatizaci%C3%B3n-de-la-configuraci%C3%B3n-julio-castro">Automatización de la configuración. | Julio Castro | Pulse | LinkedIn</a></em></p>
+<p>The post <a rel="nofollow" href="/2017/07/09/automatizacion-de-la-configuracion-julio-castro-pulse-linkedin/">Automatización de la configuración. | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/07/09/automatizacion-de-la-configuracion-julio-castro-pulse-linkedin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>xGem Community &#124; Julio Castro &#124; Pulse &#124; LinkedIn</title>
+		<link>/2017/07/09/xgem-community-julio-castro-pulse-linkedin/</link>
+		<comments>/2017/07/09/xgem-community-julio-castro-pulse-linkedin/#respond</comments>
+		<pubDate>Sun, 09 Jul 2017 21:14:18 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=559</guid>
+		<description><![CDATA[<p>Hace ya unos meses que fue la primera handout, un sábado por la mañana donde comenzamos a pensar cómo darle forma a un proyecto personal que nos ayude a desarrollar nuestras capacidades y experiencias en proyectos Open Source. Source: xGem Community &#124; Julio Castro &#124; Pulse &#124; LinkedIn</p>
+<p>The post <a rel="nofollow" href="/2017/07/09/xgem-community-julio-castro-pulse-linkedin/">xGem Community | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hace ya unos meses que fue la primera handout, un sábado por la mañana donde comenzamos a pensar cómo darle forma a un proyecto personal que nos ayude a desarrollar nuestras capacidades y experiencias en proyectos Open Source.</p>
+<p>Source: <em><a href="https://www.linkedin.com/pulse/xgem-community-julio-castro">xGem Community | Julio Castro | Pulse | LinkedIn</a></em></p>
+<p>The post <a rel="nofollow" href="/2017/07/09/xgem-community-julio-castro-pulse-linkedin/">xGem Community | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/07/09/xgem-community-julio-castro-pulse-linkedin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Mobile offline first (CouchDB / PounchDB) &#124; Julio Castro &#124; Pulse &#124; LinkedIn</title>
+		<link>/2017/07/09/mobile-offline-first-couchdb-pounchdb-julio-castro-pulse-linkedin/</link>
+		<comments>/2017/07/09/mobile-offline-first-couchdb-pounchdb-julio-castro-pulse-linkedin/#respond</comments>
+		<pubDate>Sun, 09 Jul 2017 20:53:22 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=551</guid>
+		<description><![CDATA[<p>Hace unas semanas presenté en una de las juntadas de xGem una charla de algo más que interesante. Arrancó siendo una investigación sencilla de un producto para resolver una problemática puntual pero me encontré con una solución plagada de ideas interesantes para solucionar un escenario más que habitual en las apps de hoy en día. [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/2017/07/09/mobile-offline-first-couchdb-pounchdb-julio-castro-pulse-linkedin/">Mobile offline first (CouchDB / PounchDB) | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Hace unas semanas presenté en una de las juntadas de xGem una charla de algo más que interesante. Arrancó siendo una investigación sencilla de un producto para resolver una problemática puntual pero me encontré con una solución plagada de ideas interesantes para solucionar un escenario más que habitual en las apps de hoy en día.</p>
+<p>Podría haber armado la presentación con un detalle de el o los productos pero me pareció más que interesante mostrar lo que buscaba y que fue lo que encontré. Y describir lo que seleccioné para investigar y sus detalles más importantes.</p>
+<p>&nbsp;</p>
+<p>Source: <em><a href="https://www.linkedin.com/pulse/mobile-offline-first-couchdb-pounchdb-julio-castro">Mobile offline first (CouchDB / PounchDB) | Julio Castro | Pulse | LinkedIn</a></em></p>
+<p>The post <a rel="nofollow" href="/2017/07/09/mobile-offline-first-couchdb-pounchdb-julio-castro-pulse-linkedin/">Mobile offline first (CouchDB / PounchDB) | Julio Castro | Pulse | LinkedIn</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/07/09/mobile-offline-first-couchdb-pounchdb-julio-castro-pulse-linkedin/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>What is xGem?</title>
+		<link>/2017/05/01/que-es-xgem/</link>
+		<comments>/2017/05/01/que-es-xgem/#respond</comments>
+		<pubDate>Mon, 01 May 2017 03:45:01 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+				<category><![CDATA[Uncategorized]]></category>
+
+		<guid isPermaLink="false">/?p=487</guid>
+		<description><![CDATA[<p>Presented on xGem Event. Basis of Community organization. link Presentadores:</p>
+<p>The post <a rel="nofollow" href="/2017/05/01/que-es-xgem/">What is xGem?</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Presented on xGem Event. Basis of Community organization.</p>
+<p><a href="https://es.slideshare.net/JulioCastro27/keynote-xgem-75489089">link</a></p>
+<p><iframe style="border: currentColor;" src="https://www.slideshare.net/JulioCastro27/slideshelf" width="490" height="470" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Presentadores:</p>
+
+<div id="box-1" class="mk-employees a_margin-bottom-10 a_margin-top-10 three-column u6col u5col u4col o0col o1col o2col mk-employees-grayscale simple c_cs  ">
+	<ul>
+
+	
+		<li class="mk-employee-item a_colitem a_align-center a_display-inline-block a_float-left m_7">
+			<div class="item-holder">
+				<div class="team-thumbnail a_position-relative a_width-100-per a_height-100-per a_overflow-hidden rounded-true">
+							<img alt="Julio Castro" title="Julio Castro" src="/wp-content/uploads/bfi_thumb/dummy-transparent-nb1ljfv8zoa6iknbjdhv3miosmpmquzejtz4p6ou4o.png" data-mk-image-src-set='{"default":"/wp-content/uploads/2016/12/11949366_10153246307349401_8320469572752920926_n-500x500.jpg","2x":"/wp-content/uploads/2016/12/11949366_10153246307349401_8320469572752920926_n.jpg","mobile":"","responsive":"true"}'/>
+
+
+					
+				</div>
+
+				<div class="team-info-wrapper m_7" itemscope="itemscope" itemtype="https://schema.org/Person" >
+						<span class="team-member-name a_font-16 a_display-block a_font-weight-bold a_text-transform-up a_color-333">Julio Castro</span>
+					<span class="team-member-position a_font-12 a_text-transform-up a_display-block a_color-777 a_letter-spacing-1">Founder</span> 
+							<div class="team-member-desc a_margin-top-20 a_margin-bottom-10 a_display-block"></div>
+ 
+					
+					<div class="clearboth"></div>
+
+					
+<ul class="mk-employeee-networks">
+			<li><a target="_blank" href="mailto:je&#99;&#95;&#97;&#114;&#64;hot&#109;&#97;&#105;l&#46;&#99;&#111;m" title="Get In Touch With Julio Castro"><svg  class="mk-svg-icon" data-name="mk-icon-envelope" data-cacheid="icon-596bd3167cbc1" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1792 1792"><path d="M1792 710v794q0 66-47 113t-113 47h-1472q-66 0-113-47t-47-113v-794q44 49 101 87 362 246 497 345 57 42 92.5 65.5t94.5 48 110 24.5h2q51 0 110-24.5t94.5-48 92.5-65.5q170-123 498-345 57-39 100-87zm0-294q0 79-49 151t-122 123q-376 261-468 325-10 7-42.5 30.5t-54 38-52 32.5-57.5 27-50 9h-2q-23 0-50-9t-57.5-27-52-32.5-54-38-42.5-30.5q-91-64-262-182.5t-205-142.5q-62-42-117-115.5t-55-136.5q0-78 41.5-130t118.5-52h1472q65 0 112.5 47t47.5 113z"/></svg></a></li>
+			<li><a target="_blank" href="http://twitter/jec_ar" title="Julio Castro On Twitter"><svg  class="mk-svg-icon" data-name="mk-moon-twitter" data-cacheid="icon-596bd3167e673" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M512 97.209c-18.838 8.354-39.082 14.001-60.33 16.54 21.686-13 38.343-33.585 46.186-58.115-20.298 12.039-42.778 20.78-66.705 25.49-19.16-20.415-46.461-33.17-76.673-33.17-58.011 0-105.044 47.029-105.044 105.039 0 8.233.929 16.25 2.72 23.939-87.3-4.382-164.701-46.2-216.509-109.753-9.042 15.514-14.223 33.558-14.223 52.809 0 36.444 18.544 68.596 46.73 87.433-17.219-.546-33.416-5.271-47.577-13.139-.01.438-.01.878-.01 1.321 0 50.894 36.209 93.348 84.261 103-8.813 2.4-18.094 3.686-27.674 3.686-6.769 0-13.349-.66-19.764-1.886 13.368 41.73 52.16 72.103 98.126 72.948-35.95 28.175-81.243 44.967-130.458 44.967-8.479 0-16.84-.497-25.058-1.47 46.486 29.805 101.701 47.197 161.021 47.197 193.211 0 298.868-160.062 298.868-298.872 0-4.554-.103-9.084-.305-13.59 20.528-14.81 38.336-33.31 52.418-54.374z"/></svg></a></li>
+			<li><a target="_blank" href="https://www.linkedin.com/in/jecastro" title="Julio Castro On Linked In"><svg  class="mk-svg-icon" data-name="mk-jupiter-icon-simple-linkedin" data-cacheid="icon-596bd3167eb9a" style=" height:16px; width: 16px; "  xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><path d="M80.111 25.6c-29.028 0-48.023 20.547-48.023 47.545 0 26.424 18.459 47.584 46.893 47.584h.573c29.601 0 47.999-21.16 47.999-47.584-.543-26.998-18.398-47.545-47.442-47.545zm-48.111 128h96v320.99h-96v-320.99zm323.631-7.822c-58.274 0-84.318 32.947-98.883 55.996v1.094h-.726c.211-.357.485-.713.726-1.094v-48.031h-96.748c1.477 31.819 0 320.847 0 320.847h96.748v-171.241c0-10.129.742-20.207 3.633-27.468 7.928-20.224 25.965-41.185 56.305-41.185 39.705 0 67.576 31.057 67.576 76.611v163.283h97.717v-176.313c0-104.053-54.123-152.499-126.347-152.499z"/></svg></a></li>
+	</ul>
+				</div>
+			</div>
+		</li>
+
+			</ul>
+<div class="clearboth"></div>
+</div>
+
+<p>The post <a rel="nofollow" href="/2017/05/01/que-es-xgem/">What is xGem?</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/2017/05/01/que-es-xgem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

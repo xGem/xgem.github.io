@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; xGem</title>
+	<atom:link href="/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Community</description>
+	<lastBuildDate>Sun, 16 Jul 2017 03:43:40 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/cropped-logo-cuadrado-32x32.jpg</url>
+	<title>Products &#8211; xGem</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>xGem Stickers</title>
+		<link>/product/remera-xgem/</link>
+		<comments>/product/remera-xgem/#respond</comments>
+		<pubDate>Thu, 18 May 2017 13:21:29 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=product&#038;p=520</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/product/remera-xgem/">xGem Stickers</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/product/remera-xgem/">xGem Stickers</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/product/remera-xgem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Cookies xGem</title>
+		<link>/product/cookies-xgem/</link>
+		<comments>/product/cookies-xgem/#respond</comments>
+		<pubDate>Sun, 09 Jul 2017 20:19:21 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=product&#038;p=549</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/product/cookies-xgem/">Cookies xGem</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/product/cookies-xgem/">Cookies xGem</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/product/cookies-xgem/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>xGem pin buttons</title>
+		<link>/product/xgem-pin-buttons/</link>
+		<comments>/product/xgem-pin-buttons/#respond</comments>
+		<pubDate>Wed, 24 May 2017 21:08:58 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=product&#038;p=535</guid>
+		<description><![CDATA[<p>The post <a rel="nofollow" href="/product/xgem-pin-buttons/">xGem pin buttons</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="/product/xgem-pin-buttons/">xGem pin buttons</a> appeared first on <a rel="nofollow" href="/">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/product/xgem-pin-buttons/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>

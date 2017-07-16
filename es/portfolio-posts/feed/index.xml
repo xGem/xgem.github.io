@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolios &#8211; xGem</title>
+	<atom:link href="/es/portfolio-posts/feed/" rel="self" type="application/rss+xml" />
+	<link>/es</link>
+	<description>Comunidad</description>
+	<lastBuildDate>Sun, 16 Jul 2017 03:43:40 +0000</lastBuildDate>
+	<language>es-ES</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8</generator>
+
+<image>
+	<url>/wp-content/uploads/2016/12/cropped-logo-cuadrado-32x32.jpg</url>
+	<title>Portfolios &#8211; xGem</title>
+	<link>/es</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Emerald</title>
+		<link>/es/portfolio-posts/espanol-emerald/</link>
+		<comments>/es/portfolio-posts/espanol-emerald/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 03:23:51 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=580</guid>
+		<description><![CDATA[<p>a.k.a. Emma Music. Asistente para la práctica del estudio musical.</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/espanol-emerald/">Emerald</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>a.k.a. Emma Music.</p>
+<p>Asistente para la práctica del estudio musical.</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/espanol-emerald/">Emerald</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/espanol-emerald/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Quartz</title>
+		<link>/es/portfolio-posts/quartz/</link>
+		<comments>/es/portfolio-posts/quartz/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 02:42:56 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=575</guid>
+		<description><![CDATA[<p>Proyecto relacionado a tecnologías de Computer Vision.</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/quartz/">Quartz</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Proyecto relacionado a tecnologías de Computer Vision.</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/quartz/">Quartz</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/quartz/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Jasper</title>
+		<link>/es/portfolio-posts/jasper/</link>
+		<comments>/es/portfolio-posts/jasper/#respond</comments>
+		<pubDate>Sun, 16 Jul 2017 02:40:03 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=572</guid>
+		<description><![CDATA[<p>Iniciativas de blockchain y criptomonedas.</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/jasper/">Jasper</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Iniciativas de blockchain y criptomonedas.</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/jasper/">Jasper</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/jasper/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Stishovite</title>
+		<link>/es/portfolio-posts/stishovite/</link>
+		<comments>/es/portfolio-posts/stishovite/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:47:25 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=311</guid>
+		<description><![CDATA[<p>Administración, recolección y análisis de logs. MUY PRONTO NOVEDADES!!! &#160;</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/stishovite/">Stishovite</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Administración, recolección y análisis de logs.</p>
+<p>MUY PRONTO NOVEDADES!!!</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/stishovite/">Stishovite</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/stishovite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Rhodolite</title>
+		<link>/es/portfolio-posts/granate-rhodolite/</link>
+		<comments>/es/portfolio-posts/granate-rhodolite/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:45:04 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=309</guid>
+		<description><![CDATA[<p>Estadísticas Online</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/granate-rhodolite/">Rhodolite</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Estadísticas Online</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/granate-rhodolite/">Rhodolite</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/granate-rhodolite/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Regolith</title>
+		<link>/es/portfolio-posts/regolith/</link>
+		<comments>/es/portfolio-posts/regolith/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:42:41 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=307</guid>
+		<description><![CDATA[<p>&#160; IOT para el monitoreo y alarma de procesos MUY PRONTO!!! https://github.com/xGem/Regolith</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/regolith/">Regolith</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>IOT para el monitoreo y alarma de procesos</p>
+<p>MUY PRONTO!!!</p>
+<p><a href="https://github.com/xGem/Regolith">https://github.com/xGem/Regolith</a></p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/regolith/">Regolith</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/regolith/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Pyrite</title>
+		<link>/es/portfolio-posts/peryte/</link>
+		<comments>/es/portfolio-posts/peryte/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:27:25 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">/?post_type=portfolio&#038;p=305</guid>
+		<description><![CDATA[<p>Sistema de preventa móvil para carga de pedidos offline y syncronización. También llamado Preventa. Incluye una aplicación móvil y backend. La solución está orientada a una fuerza de ventas que salen a tomar pedidos, los realizan en su App y luego sincronizan. La autenticación y los datos maestros (clientes, pedidos) se encuentras administrados en el [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/peryte/">Pyrite</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>Sistema de preventa móvil para carga de pedidos offline y syncronización.</p>
+<p>También llamado Preventa. Incluye una aplicación móvil y backend.</p>
+<p>La solución está orientada a una fuerza de ventas que salen a tomar pedidos, los realizan en su App y luego sincronizan.</p>
+<p>La autenticación y los datos maestros (clientes, pedidos) se encuentras administrados en el backend.</p>
+<p><strong>En proceso de desarrollo. Aún no pública. Acceso únicamente a miembros xGem.</strong></p>
+<p>Recursos:</p>
+<ul>
+<li>Slack Team (<a href="https://xgemit.slack.com/">https://xgemit.slack.com/</a>)</li>
+<li>Bitbucket repositorios
+<ul>
+<li><a href="https://bitbucket.org/xGem/preventa-mobile">https://bitbucket.org/xGem/preventa-mobile</a></li>
+<li><a href="https://bitbucket.org/xGem/preventa-backend">https://bitbucket.org/xGem/preventa-backend</a></li>
+</ul>
+</li>
+<li>Heroku App multiple environment
+<ul>
+<li><a href="http://preventa-backend.herokuapp.com/">http://preventa-backend.herokuapp.com/</a></li>
+<li><a href="https://dashboard.heroku.com/pipelines/8011194f-3ecd-4d03-8479-c2548a1e3195">https://dashboard.heroku.com/pipelines/8011194f-3ecd-4d03-8479-c2548a1e3195</a></li>
+</ul>
+</li>
+<li>Wiki xGem (<a href="http://wiki.xgem.com.ar/">http://wiki.xgem.com.ar/</a>)</li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/peryte/">Pyrite</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/peryte/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+		<item>
+		<title>Herkimer</title>
+		<link>/es/portfolio-posts/herkimer/</link>
+		<comments>/es/portfolio-posts/herkimer/#respond</comments>
+		<pubDate>Mon, 10 Apr 2017 22:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[Julio Castro]]></dc:creator>
+		
+		<guid isPermaLink="false">http://wp.xgem.com.ar/?post_type=portfolio&#038;p=149</guid>
+		<description><![CDATA[<p>&#160; Se trata de una plataforma de servicios en cloud para el almacenamiento y sincronización móvil. El usuario modela los datos en una aplicación web donde define como se organizará su información y las reglas de sincronización. ESTADO: En desarrollo. Acceso únicamente a miembros xGem. Movilidad Cliente iOS/Android Geolocalización: Para qué? Cuándo? Manejo y/o control de rutas [&#8230;]</p>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/herkimer/">Herkimer</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></description>
+				<content:encoded><![CDATA[<p>&nbsp;</p>
+<p>Se trata de una plataforma de servicios en cloud para el almacenamiento y sincronización móvil.</p>
+<p>El usuario modela los datos en una aplicación web donde define como se organizará su información y las reglas de sincronización.</p>
+<p><strong>ESTADO: En desarrollo. Acceso únicamente a miembros xGem.</strong></p>
+<h3>Movilidad</h3>
+<ul>
+<li>Cliente iOS/Android</li>
+<li>Geolocalización: Para qué? Cuándo? Manejo y/o control de rutas</li>
+<li>Fotos: Tomar &amp; Sync</li>
+<li>Scan de QR/Barcode</li>
+<li>Transformación de documentos (excel, pdf)</li>
+</ul>
+<h3>Comunicación</h3>
+<ul>
+<li>Notificaciones Push (canal single/broadcast)</li>
+<li>Hub de integración</li>
+<li>MQTT</li>
+<li>NIFI</li>
+<li>IoT</li>
+</ul>
+<h3>Seguridad</h3>
+<ul>
+<li>SSL,oAuth2</li>
+<li>Login Social</li>
+<li>Share a Redes Sociales/email</li>
+<li>Integración de huellas dactilares</li>
+</ul>
+<h3>Datos:</h3>
+<ul>
+<li>Modelo de datos por configuración</li>
+<li>DB documental</li>
+<li>Colecciones de datos sensibles</li>
+<li>Cliente consume la configuración desde el Backend</li>
+<li>Sync automática x colección</li>
+<li>Backend “múltiple” proyecto</li>
+<li>Módulo de reporting en backend</li>
+<li>RESP API para export</li>
+<li>Colección reducida en el mobile x config</li>
+</ul>
+<hr />
+<h4>Recursos:</h4>
+<ul>
+<li>Slack Team:  <a href="https://xgemit.slack.com/messages/C2RCETC6L">https://xgemit.slack.com/messages/C2RCETC6L</a></li>
+<li>Google Drive</li>
+<li>Repositorio BitBucket
+<ul>
+<li><a href="https://bitbucket.org/xGem/herkimer-dev">https://bitbucket.org/xGem/herkimer-dev</a></li>
+<li><a href="https://bitbucket.org/xGem/herkimer-mobile">https://bitbucket.org/xGem/herkimer-mobile</a></li>
+<li><a href="https://bitbucket.org/xGem/herkimer-backend">https://bitbucket.org/xGem/herkimer-backend</a></li>
+</ul>
+</li>
+<li>xGem Wiki: <a href="http://wiki.xgem.com.ar/">http://wiki.xgem.com.ar/</a></li>
+</ul>
+<p>The post <a rel="nofollow" href="/es/portfolio-posts/herkimer/">Herkimer</a> appeared first on <a rel="nofollow" href="/es">xGem</a>.</p>
+]]></content:encoded>
+			<wfw:commentRss>/es/portfolio-posts/herkimer/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
